@@ -1,1 +1,1 @@
-Here, you can login using your username and password.
+Here, you can easily login using your username and password, which will ultimately increase security for users.
